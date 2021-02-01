@@ -8,7 +8,7 @@ forests, and applying these to 2 datasets. We improve on the classifications
 performed by decision trees by implementing a more sophisticated method on
 one particular dataset: random forests. We then assess the efiectiveness of this
 method. Finally, we discuss an alternative machine learning technique: artifcial
-neural networks, and again assess how well this model performs a classifica-
-tion task. Afterwards, we discuss the relative advantages and disadvantages of
+neural networks, and again assess how well this model performs a classification task.
+Afterwards, we discuss the relative advantages and disadvantages of
 each method and discuss how a statistician may decide which machine learning
 method to implement for a given classification problem on a dataset.
